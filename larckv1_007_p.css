@@ -1,0 +1,105 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc25               { /* Common */
+	font            : 58pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc26               { /* Common */
+	font            : 20pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc27               { /* Common */
+	font            : 28pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc28               { /* Common */
+	border          :   0.00pt solid #993399;
+	}
+.cc29               { /* Common */
+	font            : 22pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+div#e9              { /* Mini Man Dungeon */
+	position        : absolute;
+	left            : 157.50pt;
+	top             :  11.25pt;
+	width           : 588.00pt;
+	height          :  66.75pt;
+	}
+div#e8              { /* controls: arrow keys\ \\... */
+	position        : absolute;
+	left            : 184.50pt;
+	top             : 399.75pt;
+	width           : 435.00pt;
+	height          : 150.75pt;
+	}
+img#e7              { /* larckv1007004.jpg */
+	position        : absolute;
+	left            :  11.25pt;
+	top             :   5.25pt;
+	width           :  94.50pt;
+	height          :  98.25pt;
+	}
+div#e6              { /* Home */
+	position        : absolute;
+	left            :  15.75pt;
+	top             :   6.00pt;
+	width           : 105.75pt;
+	height          :  32.25pt;
+	}
+img#e5              { /* larckv1007003.gif */
+	position        : absolute;
+	left            : 568.50pt;
+	top             : 114.00pt;
+	width           : 130.50pt;
+	height          :  72.75pt;
+	}
+div#e4              { /* Free Download */
+	position        : absolute;
+	left            : 581.25pt;
+	top             : 121.50pt;
+	width           : 120.00pt;
+	height          :  53.25pt;
+	}
+img#e3              { /* larckv1007002.gif */
+	position        : absolute;
+	left            : 571.50pt;
+	top             : 202.50pt;
+	width           : 130.50pt;
+	height          :  72.75pt;
+	}
+div#e2              { /* Play Now */
+	position        : absolute;
+	left            : 589.50pt;
+	top             : 227.25pt;
+	width           : 120.00pt;
+	height          :  27.75pt;
+	}
+span#e1             { /* larckv1007001.jpg */
+	background      : transparent url(larckv1007001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 175.50pt;
+	top             :  81.75pt;
+	width           : 353.25pt;
+	height          : 289.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	background-image: url(larckv1007b01.jpg);
+	position        : relative;
+	width           : 745.50pt;
+	height          : 750.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,122 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc35               { /* Common */
+	font            : 58pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc36               { /* Common */
+	font            : 20pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc37               { /* Common */
+	font            : 28pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc38               { /* Common */
+	border          :   0.00pt solid #993399;
+	}
+.cc39               { /* Common */
+	font            : 22pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc40               { /* Common */
+	border          :   0.00pt solid #008000;
+	}
+div#e11             { /* Blast Cube */
+	position        : absolute;
+	left            : 157.50pt;
+	top             :  11.25pt;
+	width           : 588.00pt;
+	height          :  66.75pt;
+	}
+div#e10             { /* controls: Move with W,A,... */
+	position        : absolute;
+	left            : 184.50pt;
+	top             : 399.75pt;
+	width           : 435.00pt;
+	height          : 249.75pt;
+	}
+img#e9              { /* larckv1009005.jpg */
+	position        : absolute;
+	left            :  11.25pt;
+	top             :   5.25pt;
+	width           :  94.50pt;
+	height          :  98.25pt;
+	}
+div#e8              { /* Home */
+	position        : absolute;
+	left            :  15.75pt;
+	top             :   6.00pt;
+	width           : 105.75pt;
+	height          :  32.25pt;
+	}
+img#e7              { /* larckv1009004.gif */
+	position        : absolute;
+	left            : 577.50pt;
+	top             : 114.00pt;
+	width           : 130.50pt;
+	height          :  72.75pt;
+	}
+div#e6              { /* Free Download */
+	position        : absolute;
+	left            : 592.50pt;
+	top             : 123.00pt;
+	width           : 120.00pt;
+	height          :  53.25pt;
+	}
+span#e5             { /* larckv1009003.jpg */
+	background      : transparent url(larckv1009003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 129.75pt;
+	top             :  70.50pt;
+	width           : 434.25pt;
+	height          : 326.25pt;
+	}
+img#e4              { /* larckv1009002.gif */
+	position        : absolute;
+	left            : 571.50pt;
+	top             : 202.50pt;
+	width           : 130.50pt;
+	height          :  72.75pt;
+	}
+div#e3              { /* Play Now */
+	position        : absolute;
+	left            : 585.75pt;
+	top             : 224.25pt;
+	width           : 120.00pt;
+	height          :  27.75pt;
+	}
+img#e2              { /* larckv1009001.gif */
+	position        : absolute;
+	left            : 570.00pt;
+	top             : 279.00pt;
+	width           : 160.50pt;
+	height          :  97.50pt;
+	}
+div#e1              { /* Download on Google Play ... */
+	position        : absolute;
+	left            : 595.50pt;
+	top             : 290.25pt;
+	width           : 120.00pt;
+	height          :  78.75pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	background-image: url(larckv1009b01.jpg);
+	position        : relative;
+	width           : 745.50pt;
+	height          : 750.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

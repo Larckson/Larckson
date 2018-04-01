@@ -1,0 +1,234 @@
+/*--- Avanquest WebEasy Document Style ---*/
+
+*                   { /* All Elements */
+	margin          : 0px;
+	padding         : 0px;
+	}
+a:link              { /* Document Style */
+	color           : #000000;
+	}
+a:visited           { /* Document Style */
+	color           : #000000;
+	}
+a:hover             { /* Document Style */
+	color           : #000000;
+	}
+a:active            { /* Active Links */
+	color           : #000000;
+	}
+ol,ul               { /* All Lists */
+	margin          : 1em;
+	padding-left    : 2em;
+	}
+p                   { /* All Paragraphs */
+	margin-bottom   : 1em;
+	}
+a.navigation:link   {
+	color           : #808080;
+	}
+a.navigation:visited{
+	color           : #6a6a6a;
+	}
+a.navigation:hover  {
+	color           : #ff8040;
+	}
+table.ct07          { /* Document Style */
+	color           : #000000;
+	background-color: #fefbf4;
+	}
+table.ct07 caption  { /* Document Style */
+	color           : #000000;
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	}
+table.ct07 td       { /* Document Style */
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+table.ct07 th       { /* Document Style */
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	background-color: #fefbf4;
+	}
+table.ct07 .ch07 th { /* Document Style */
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	background-color: #fefbf4;
+	}
+.address,address    {
+	color           : #ff8040;
+	font            : bold 10pt 'Georgia', Times, Book, serif;
+	}
+.address a          {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.citation,cite      {
+	color           : #000000;
+	font            : italic 10pt 'Arial', Helvetica, sans-serif;
+	}
+.code,code          {
+	color           : #000000;
+	font            : 10pt 'Courier New', monospace;
+	}
+.deco               {
+	color           : #d8d3cd;
+	background-color: #d8d3cd;
+	}
+.emphasis,em        {
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+.footer             {
+	color           : #000000;
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	text-align      : center;
+	}
+.footer_box         {
+	background-color: #fefbf4;
+	}
+.form_button        {
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+.form_input         {
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	border          :   0.75pt solid #000000;
+	}
+.form_label         {
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+.form_legend        {
+	color           : #000000;
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	}
+.form_set           {
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	background-color: #fefbf4;
+	}
+.header             {
+	color           : #000000;
+	font            : 22pt 'Arial', Helvetica, sans-serif;
+	}
+.header_box         {
+	background-color: #fefbf4;
+	}
+.heading1,h1        {
+	color           : #000000;
+	font            : 22pt 'Arial', Helvetica, sans-serif;
+	}
+.heading2,h2        {
+	color           : #000000;
+	font            : 18pt 'Arial', Helvetica, sans-serif;
+	}
+.heading3,h3        {
+	color           : #000000;
+	font            : 16pt 'Arial Narrow', Helvetica, sans-serif;
+	}
+.heading4,h4        {
+	color           : #000000;
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	}
+.heading5,h5        {
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+.heading6,h6        {
+	color           : #000000;
+	font            : bold 8pt 'Arial', Helvetica, sans-serif;
+	}
+.info               {
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+.info_box           {
+	background-color: #fefbf4;
+	}
+.info_tag           {
+	color           : #000000;
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	}
+.item               {
+	color           : #ff8040;
+	font            : bold 10pt 'Georgia', Times, Book, serif;
+	}
+.item_box           {
+	background-color: #fefbf4;
+	}
+.item_tag           {
+	color           : #ff8040;
+	font            : bold 12pt 'Georgia', Times, Book, serif;
+	}
+.logo               {
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+.logo_box           {
+	background-color: #fefbf4;
+	}
+.logo_tag           {
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+.navigation         {
+	color           : #808080;
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	}
+.navigation_box     {
+	background-color: #f9f9f9;
+	}
+.navigation_tag     {
+	color           : #808080;
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	}
+.news               {
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+.news_box           {
+	background-color: #fefbf4;
+	}
+.news_tag           {
+	color           : #000000;
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	}
+.page               {
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	background-color: #fefbf4;
+	}
+.page_box           {
+	background-color: #fefbf4;
+	}
+.page_tag           {
+	color           : #000000;
+	font            : 16pt 'Arial', Helvetica, sans-serif;
+	}
+.panel              {
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+.panel_box          {
+	background-color: #fefbf4;
+	}
+.photo              {
+	color           : #ff8000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+.photo_box          {
+	background-color: #fefbf4;
+	}
+.photo_tag          {
+	color           : #ff8000;
+	font            : 11pt 'Arial', Helvetica, sans-serif;
+	}
+.small,small        {
+	color           : #000000;
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	}
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,120 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc09               { /* Common */
+	font            : 28pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e11            { /* larckv1003002.jpg */
+	background      : transparent url(larckv1003002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 183.00pt;
+	top             :  86.25pt;
+	width           : 339.00pt;
+	height          : 245.25pt;
+	}
+div#e10             { /* Larz */
+	font            : bold 20pt 'Georgia', Times, Book, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 282.75pt;
+	top             :  74.25pt;
+	width           : 156.75pt;
+	height          :  23.25pt;
+	}
+h5#e9               { /* E-mail */
+	font            : bold 20pt 'Georgia', Times, Book, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 192.00pt;
+	top             : 102.75pt;
+	width           :  85.50pt;
+	height          :  23.25pt;
+	}
+address#e8          { /* larz@larckson.com */
+	font            : bold 20pt 'Georgia', Times, Book, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 280.50pt;
+	top             : 107.25pt;
+	width           : 162.75pt;
+	height          :  23.25pt;
+	}
+h5#e7               { /* Online  */
+	font            : bold 20pt 'Georgia', Times, Book, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 192.75pt;
+	top             :  42.75pt;
+	width           :  85.50pt;
+	height          :  25.50pt;
+	}
+div#e6              { /* Larckson3 */
+	font            : bold 20pt 'Georgia', Times, Book, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 279.75pt;
+	top             :  45.75pt;
+	width           : 156.75pt;
+	height          :  23.25pt;
+	}
+h5#e5               { /* These games were made by... */
+	font            : bold 24pt 'Georgia', Times, Book, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  51.00pt;
+	top             : 151.50pt;
+	width           : 587.25pt;
+	height          : 116.25pt;
+	}
+h5#e4               { /* Some of the software I u... */
+	font            : bold 24pt 'Georgia', Times, Book, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  59.25pt;
+	top             : 276.00pt;
+	width           : 569.25pt;
+	height          : 201.75pt;
+	}
+img#e3              { /* larckv1003001.jpg */
+	position        : absolute;
+	left            :  20.25pt;
+	top             :   9.75pt;
+	width           :  94.50pt;
+	height          :  94.50pt;
+	}
+div#e2              { /* Home */
+	position        : absolute;
+	left            :  24.75pt;
+	top             :  10.50pt;
+	width           : 105.75pt;
+	height          :  41.25pt;
+	}
+h5#e1               { /* Name */
+	font            : bold 20pt 'Georgia', Times, Book, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 192.75pt;
+	top             :  72.00pt;
+	width           :  85.50pt;
+	height          :  25.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffff66;
+	background-image: url(larckv1003b01.gif);
+	position        : relative;
+	width           : 745.50pt;
+	height          : 750.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffff66;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

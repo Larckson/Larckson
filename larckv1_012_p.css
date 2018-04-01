@@ -1,0 +1,105 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc51               { /* Common */
+	font            : 58pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc52               { /* Common */
+	font            : 20pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc53               { /* Common */
+	font            : 28pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc54               { /* Common */
+	border          :   0.00pt solid #993399;
+	}
+.cc55               { /* Common */
+	font            : 22pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+div#e9              { /* Nine Planets */
+	position        : absolute;
+	left            : 157.50pt;
+	top             :  11.25pt;
+	width           : 588.00pt;
+	height          :  66.75pt;
+	}
+div#e8              { /* Make sure to unzip the z... */
+	position        : absolute;
+	left            : 170.25pt;
+	top             : 399.00pt;
+	width           : 435.00pt;
+	height          : 225.00pt;
+	}
+img#e7              { /* larckv1012004.jpg */
+	position        : absolute;
+	left            :  11.25pt;
+	top             :   5.25pt;
+	width           :  94.50pt;
+	height          :  98.25pt;
+	}
+div#e6              { /* Home */
+	position        : absolute;
+	left            :  15.75pt;
+	top             :   6.00pt;
+	width           : 105.75pt;
+	height          :  32.25pt;
+	}
+img#e5              { /* larckv1012003.gif */
+	position        : absolute;
+	left            : 577.50pt;
+	top             : 114.00pt;
+	width           : 130.50pt;
+	height          :  72.75pt;
+	}
+div#e4              { /* Free Download */
+	position        : absolute;
+	left            : 594.75pt;
+	top             : 122.25pt;
+	width           : 120.00pt;
+	height          :  53.25pt;
+	}
+img#e3              { /* larckv1012002.gif */
+	position        : absolute;
+	left            : 571.50pt;
+	top             : 202.50pt;
+	width           : 130.50pt;
+	height          :  72.75pt;
+	}
+div#e2              { /* On Play\ \Store */
+	position        : absolute;
+	left            : 591.00pt;
+	top             : 212.25pt;
+	width           : 120.00pt;
+	height          :  53.25pt;
+	}
+span#e1             { /* larckv1012001.gif */
+	background      : transparent url(larckv1012001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 124.50pt;
+	top             : 111.75pt;
+	width           : 435.00pt;
+	height          : 246.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #00ff66;
+	background-image: url(larckv1012b01.jpg);
+	position        : relative;
+	width           : 745.50pt;
+	height          : 750.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #00ff66;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

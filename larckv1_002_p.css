@@ -1,0 +1,203 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc03               { /* Common */
+	font            : italic bold 36pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc04               { /* Common */
+	border          :   0.00pt solid #808080;
+	clip            : rect(0.00pt,715.50pt,0.75pt,0.00pt);
+	}
+.cc05               { /* Common */
+	font            : italic bold 48pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc06               { /* Common */
+	font            : italic bold 24pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc07               { /* Common */
+	font            : 28pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc08               { /* Common */
+	border          :   0.00pt solid #ffffff;
+	}
+img#e22             { /* larckv1002015.jpg */
+	position        : absolute;
+	left            :  27.75pt;
+	top             : 312.75pt;
+	width           : 208.50pt;
+	height          : 159.75pt;
+	}
+img#e21             { /* larckv1002014.jpg */
+	position        : absolute;
+	left            : 478.50pt;
+	top             : 550.50pt;
+	width           : 208.50pt;
+	height          : 159.75pt;
+	}
+img#e20             { /* larckv1002013.jpg */
+	position        : absolute;
+	left            : 257.25pt;
+	top             : 312.75pt;
+	width           : 208.50pt;
+	height          : 159.75pt;
+	}
+div#e19             { /* Bloby */
+	position        : absolute;
+	left            : 283.50pt;
+	top             : 326.25pt;
+	width           : 143.25pt;
+	height          :  75.75pt;
+	}
+img#e18             { /* larckv1002012.jpg */
+	position        : absolute;
+	left            :  21.00pt;
+	top             : 546.75pt;
+	width           : 208.50pt;
+	height          : 159.75pt;
+	}
+span#e17            { /* larckv1002011.gif */
+	background      : transparent url(larckv1002011.gif) no-repeat top left;
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 300.75pt;
+	width           : 715.50pt;
+	height          :   0.75pt;
+	}
+img#e16             { /* larckv1002010.jpg */
+	position        : absolute;
+	left            : 263.25pt;
+	top             : 550.50pt;
+	width           : 195.00pt;
+	height          : 159.75pt;
+	}
+div#e15             { /* Plopper */
+	position        : absolute;
+	left            : 486.75pt;
+	top             : 549.75pt;
+	width           : 202.50pt;
+	height          :  60.00pt;
+	}
+div#e14             { /* Apple Clicker */
+	position        : absolute;
+	left            :  48.75pt;
+	top             : 559.50pt;
+	width           : 143.25pt;
+	height          :  89.25pt;
+	}
+img#e13             { /* larckv1002009.jpg */
+	position        : absolute;
+	left            :  20.25pt;
+	top             :   9.75pt;
+	width           :  94.50pt;
+	height          :  94.50pt;
+	}
+div#e12             { /* Home */
+	position        : absolute;
+	left            :  24.75pt;
+	top             :  10.50pt;
+	width           : 105.75pt;
+	height          :  41.25pt;
+	}
+img#e11             { /* larckv1002008.gif */
+	position        : absolute;
+	left            : 491.25pt;
+	top             : 317.25pt;
+	width           : 217.50pt;
+	height          : 163.50pt;
+	}
+img#e10             { /* larckv1002007.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 549.75pt;
+	width           : 177.00pt;
+	height          :  79.50pt;
+	}
+img#e9              { /* larckv1002006.gif */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 162.00pt;
+	width           : 218.25pt;
+	height          : 123.00pt;
+	}
+div#e8              { /* Mini Man\ \Dungeon */
+	position        : absolute;
+	left            : 278.25pt;
+	top             : 555.75pt;
+	width           : 174.00pt;
+	height          :  89.25pt;
+	}
+img#e7              { /* larckv1002005.gif */
+	position        : absolute;
+	left            :  60.75pt;
+	top             : 314.25pt;
+	width           : 177.00pt;
+	height          :  79.50pt;
+	}
+div#e6              { /* Nitrea \ \Adventure\ \to... */
+	position        : absolute;
+	left            :  41.25pt;
+	top             : 312.75pt;
+	width           : 204.00pt;
+	height          : 116.25pt;
+	}
+img#e5              { /* larckv1002004.gif */
+	position        : absolute;
+	left            : 135.75pt;
+	top             :   5.25pt;
+	width           : 101.25pt;
+	height          : 101.25pt;
+	}
+img#e4              { /* larckv1002003.gif */
+	position        : absolute;
+	left            : 243.00pt;
+	top             : 120.75pt;
+	width           : 220.50pt;
+	height          : 167.25pt;
+	}
+img#e3              { /* larckv1002002.gif */
+	position        : absolute;
+	left            : 243.00pt;
+	top             : 120.75pt;
+	width           : 221.25pt;
+	height          :  54.00pt;
+	}
+div#e2              { /* Planet Sandbox */
+	position        : absolute;
+	left            : 243.75pt;
+	top             : 121.50pt;
+	width           : 204.00pt;
+	height          :  30.00pt;
+	}
+img#e1              { /* larckv1002001.gif */
+	position        : absolute;
+	left            : 482.25pt;
+	top             : 130.50pt;
+	width           : 246.00pt;
+	height          : 153.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	background-image: url(larckv1002b01.jpg);
+	position        : relative;
+	width           : 745.50pt;
+	height          : 750.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

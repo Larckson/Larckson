@@ -1,0 +1,91 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc20               { /* Common */
+	font            : 58pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc21               { /* Common */
+	font            : 20pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc22               { /* Common */
+	font            : 28pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc23               { /* Common */
+	border          :   0.00pt solid #993399;
+	}
+.cc24               { /* Common */
+	font            : 22pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+div#e7              { /* Plopper */
+	position        : absolute;
+	left            : 157.50pt;
+	top             :  11.25pt;
+	width           : 588.00pt;
+	height          :  66.75pt;
+	}
+div#e6              { /* controls: left - right a... */
+	position        : absolute;
+	left            : 184.50pt;
+	top             : 399.75pt;
+	width           : 435.00pt;
+	height          : 200.25pt;
+	}
+img#e5              { /* larckv1006003.jpg */
+	position        : absolute;
+	left            :  11.25pt;
+	top             :   5.25pt;
+	width           :  94.50pt;
+	height          :  98.25pt;
+	}
+div#e4              { /* Home */
+	position        : absolute;
+	left            :  15.75pt;
+	top             :   6.00pt;
+	width           : 105.75pt;
+	height          :  32.25pt;
+	}
+img#e3              { /* larckv1006002.gif */
+	position        : absolute;
+	left            : 568.50pt;
+	top             : 114.00pt;
+	width           : 130.50pt;
+	height          :  72.75pt;
+	}
+div#e2              { /* Free Download */
+	position        : absolute;
+	left            : 585.75pt;
+	top             : 123.75pt;
+	width           : 120.00pt;
+	height          :  53.25pt;
+	}
+span#e1             { /* larckv1006001.jpg */
+	background      : transparent url(larckv1006001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 160.50pt;
+	top             :  87.75pt;
+	width           : 382.50pt;
+	height          : 302.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	background-image: url(larckv1006b01.jpg);
+	position        : relative;
+	width           : 745.50pt;
+	height          : 750.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/
