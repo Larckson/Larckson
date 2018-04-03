@@ -91,6 +91,20 @@ span#e1             { /* larckv1010001.gif */
 	width           : 452.25pt;
 	height          : 313.50pt;
 	}
+div#e11             { /* controls: Move with W,A,... */
+	position        : absolute;
+	left            : 184.50pt;
+	top             : 399.75pt;
+	width           : 435.00pt;
+	height          : 249.75pt;
+	}	
+div#e12              { /* Free Download */
+	position        : absolute;
+	left            : 592.50pt;
+	top             : 123.00pt;
+	width           : 120.00pt;
+	height          :  53.25pt;
+	}
 div#page            { /* Page Holder */
 	background-color: #33cc00;
 	background-image: url(larckv1010b01.gif);
