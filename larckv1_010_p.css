@@ -27,6 +27,13 @@ div#e10             { /* On Play Store */
 	width           : 120.00pt;
 	height          : 104.25pt;
 	}
+div#e12              { /* Free Download */
+	position        : absolute;
+	left            : 592.50pt;
+	top             : 123.00pt;
+	width           : 120.00pt;
+	height          :  53.25pt;
+	}
 div#e9              { /* The New World */
 	position        : absolute;
 	left            : 157.50pt;
@@ -41,6 +48,13 @@ div#e8              { /* Make sure to unzip the z... */
 	width           : 435.00pt;
 	height          : 348.75pt;
 	}
+img#e11             { /* controls: Move with W,A,... */
+	position        : absolute;
+	left            : 592.50pt;
+	top             : 223.00pt;
+	width           : 120.00pt;
+	height          :  53.25pt;
+	}	
 img#e7              { /* larckv1010004.jpg */
 	position        : absolute;
 	left            :  11.25pt;
@@ -90,20 +104,6 @@ span#e1             { /* larckv1010001.gif */
 	top             :  84.75pt;
 	width           : 452.25pt;
 	height          : 313.50pt;
-	}
-div#e11             { /* controls: Move with W,A,... */
-	position        : absolute;
-	left            : 184.50pt;
-	top             : 399.75pt;
-	width           : 435.00pt;
-	height          : 249.75pt;
-	}	
-div#e12              { /* Free Download */
-	position        : absolute;
-	left            : 592.50pt;
-	top             : 123.00pt;
-	width           : 120.00pt;
-	height          :  53.25pt;
 	}
 div#page            { /* Page Holder */
 	background-color: #33cc00;
